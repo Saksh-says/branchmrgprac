@@ -1,2 +1,3 @@
 print("Hello branchmrgprac")
-print("In second-branch changes by developer 2")
+#<<<<<<< HEAD
+print("Not dev1 and dev2 sitted together and resolved the hello.py")
